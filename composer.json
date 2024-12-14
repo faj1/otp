@@ -1,0 +1,15 @@
+{
+    "name": "faj1/otp",
+    "description": "对OTPHP的封装",
+    "autoload": {
+        "psr-4": {
+            "Faj1\\Otp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "777"
+        }
+    ],
+    "require": {}
+}
