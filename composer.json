@@ -11,5 +11,8 @@
             "name": "777"
         }
     ],
-    "require": {}
+    "require": {
+        "spomky-labs/otphp": "^11.3",
+        "psr/clock": "^1.0"
+    }
 }
